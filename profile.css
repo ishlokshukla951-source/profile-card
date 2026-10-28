@@ -1,0 +1,56 @@
+nav{
+    background-color: rgb(44, 44, 250);
+    height: ;
+    text-align: center;
+    font-size: 40px;
+}
+.tittle{
+    border: 1px solid black;
+    height: 350px;
+    width: 250px ;
+    margin: 10% 35%;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    
+}
+.box1{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    border:1px solid black;
+    padding: 15px;
+    margin: 25px 70px;
+    text-align: center;
+    background-color: blue;
+    font-size: 70px;
+    color: white;
+    
+}
+.box2{
+    text-align: center;
+    font-size: 30px;
+    
+}
+.box3{
+    text-align: center;
+}
+.box4{
+    border: 1px solid black;
+    height: 70px;
+    width: 200px;
+    overflow: auto;
+    margin: auto;
+}
+.box5{
+    border: 1px solid black;
+    height: 20px;
+    width: 200px;
+    overflow: auto;
+    margin: auto;
+    background:rgb(97, 97, 242);
+    text-align: center;
+    
+    
+
+   
+}
